@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Odoo%20Hackathon%202026-Finalist-00E5FF?style=flat-square&labelColor=0D1117" alt="Finalist, Odoo Hackathon 2026"> <img src="https://img.shields.io/badge/GirlScript%20SoC%202026-Contributor-8B5CF6?style=flat-square&labelColor=0D1117" alt="Selected contributor, GirlScript Summer of Code 2026"> <img src="https://img.shields.io/badge/LeetCode-100%2B%20solved-39FF88?style=flat-square&labelColor=0D1117" alt="Over 100 LeetCode problems solved">
+<img src="https://img.shields.io/badge/Odoo%20Hackathon%202026-Finalist-00E5FF?style=flat-square&labelColor=0D1117" alt="Finalist, Odoo Hackathon 2026"> <img src="https://img.shields.io/badge/GirlScript%20SoC%202026-Contributor-8B5CF6?style=flat-square&labelColor=0D1117" alt="Selected contributor, GirlScript Summer of Code 2026"> 
 
 <br><br>
 
