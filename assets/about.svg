@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="352" viewBox="0 0 1000 352" role="img" aria-label="About panel: based in Chennai India; studying CSE at Chennai Institute of Technology; building developer tools, AI automation and full-stack products; sharpening DSA, system design and backend engineering; open to software engineering internships and open-source collaboration; contact safwanshk11 at gmail dot com.">
+  <title>About — status panel</title>
+
+  <defs>
+    <linearGradient id="aSurface" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0E1520"/>
+      <stop offset="100%" stop-color="#090D14"/>
+    </linearGradient>
+    <linearGradient id="aTile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121A26" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0D141E" stop-opacity="0.95"/>
+    </linearGradient>
+    <radialGradient id="aGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="aGlow2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="aCard"><rect width="1000" height="352" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#aCard)">
+    <rect width="1000" height="352" fill="url(#aSurface)"/>
+    <ellipse cx="120" cy="40" rx="380" ry="200" fill="url(#aGlow)"/>
+    <ellipse cx="900" cy="330" rx="380" ry="200" fill="url(#aGlow2)"/>
+
+    <!-- panel header -->
+    <text x="34" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+          font-size="14" letter-spacing="5" fill="#00E5FF">// PROFILE</text>
+    <line x1="34" y1="62" x2="966" y2="62" stroke="#1E2836" stroke-width="1"/>
+
+    <!-- ============ TILES ============ -->
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+
+      <!-- 1 BASED IN -->
+      <rect x="34"  y="84" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="34"  y="84" width="3.5" height="76" rx="2" fill="#00E5FF"/>
+      <path d="M64 112 a9 9 0 1 1 18 0 c0 7-9 17-9 17 s-9-10-9-17z" fill="none" stroke="#00E5FF" stroke-width="2"/>
+      <circle cx="73" cy="112" r="3.2" fill="#00E5FF"/>
+      <text x="100" y="115" font-size="13" letter-spacing="3.5" fill="#64748B">BASED IN</text>
+      <text x="100" y="141" font-size="21" font-weight="600" letter-spacing="0.4"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Chennai, India</text>
+
+      <!-- 2 STUDYING -->
+      <rect x="514" y="84" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="514" y="84" width="3.5" height="76" rx="2" fill="#8B5CF6"/>
+      <path d="M544 114 l16-8 16 8 -16 8 z" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linejoin="round"/>
+      <path d="M552 118 v9 c0 3 16 3 16 0 v-9" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linecap="round"/>
+      <text x="592" y="115" font-size="13" letter-spacing="3.5" fill="#64748B">STUDYING</text>
+      <text x="592" y="141" font-size="19.5" font-weight="600"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">CSE · Chennai Institute of Technology</text>
+
+      <!-- 3 BUILDING -->
+      <rect x="34"  y="176" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="34"  y="176" width="3.5" height="76" rx="2" fill="#39FF88"/>
+      <path d="M64 209 l9-5 9 5 -9 5 z M64 209 v10 l9 5 v-10 M82 209 v10 l-9 5" fill="none" stroke="#39FF88" stroke-width="2" stroke-linejoin="round"/>
+      <text x="100" y="207" font-size="13" letter-spacing="3.5" fill="#64748B">BUILDING</text>
+      <text x="100" y="233" font-size="21" font-weight="600"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Dev tools · AI automation · Full-stack</text>
+
+      <!-- 4 SHARPENING -->
+      <rect x="514" y="176" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="514" y="176" width="3.5" height="76" rx="2" fill="#00E5FF"/>
+      <path d="M544 222 l9-11 7 6 10 -14" fill="none" stroke="#00E5FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M544 200 v26 h26" fill="none" stroke="#00E5FF" stroke-width="2" stroke-opacity="0.45" stroke-linecap="round"/>
+      <text x="592" y="207" font-size="13" letter-spacing="3.5" fill="#64748B">SHARPENING</text>
+      <text x="592" y="233" font-size="21" font-weight="600"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">DSA · System design · Backend</text>
+
+      <!-- 5 OPEN TO -->
+      <rect x="34"  y="268" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="34"  y="268" width="3.5" height="76" rx="2" fill="#39FF88"/>
+      <rect x="63" y="300" width="20" height="15" rx="2.5" fill="none" stroke="#39FF88" stroke-width="2"/>
+      <path d="M69 300 v-4 h8 v4" fill="none" stroke="#39FF88" stroke-width="2"/>
+      <text x="100" y="299" font-size="13" letter-spacing="3.5" fill="#64748B">OPEN TO</text>
+      <text x="100" y="325" font-size="21" font-weight="600"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">SWE internships · Open source</text>
+
+      <!-- 6 REACH ME -->
+      <rect x="514" y="268" width="452" height="76" rx="12" fill="url(#aTile)" stroke="#1F2A39"/>
+      <rect x="514" y="268" width="3.5" height="76" rx="2" fill="#8B5CF6"/>
+      <rect x="543" y="299" width="22" height="16" rx="2.5" fill="none" stroke="#8B5CF6" stroke-width="2"/>
+      <path d="M543 301 l11 8 11 -8" fill="none" stroke="#8B5CF6" stroke-width="2" stroke-linejoin="round"/>
+      <text x="592" y="299" font-size="13" letter-spacing="3.5" fill="#64748B">REACH ME</text>
+      <text x="592" y="325" font-size="21" font-weight="600"
+            font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">safwanshk11@gmail.com</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="998.5" height="350.5" rx="18" fill="none" stroke="#232E3D" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Safwan Shaik — Software Engineer in the Making" width="100%">
+<img src="assets/header.svg" alt="Safwan Shaik — Software Engineer in the Making. Full-stack, AI automation, security." width="100%">
 
-<br>
+<br><br>
 
 <a href="https://github.com/safwanshk11">
   <picture>
@@ -13,6 +13,10 @@
 </a>
 
 <br>
+
+<img src="https://img.shields.io/badge/Odoo%20Hackathon%202026-Finalist-00E5FF?style=flat-square&labelColor=0D1117" alt="Finalist, Odoo Hackathon 2026"> <img src="https://img.shields.io/badge/GirlScript%20SoC%202026-Contributor-8B5CF6?style=flat-square&labelColor=0D1117" alt="Selected contributor, GirlScript Summer of Code 2026"> <img src="https://img.shields.io/badge/LeetCode-100%2B%20solved-39FF88?style=flat-square&labelColor=0D1117" alt="Over 100 LeetCode problems solved">
+
+<br><br>
 
 <a href="https://saf1shk.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio — saf1shk.vercel.app">
@@ -28,49 +32,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=safwanshk11&style=flat-square&color=00E5FF&label=profile+views" alt="Profile view count">
 
+<br><br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/about-mobile.svg">
+  <img src="assets/about.svg" alt="Based in Chennai, India. Studying CSE at Chennai Institute of Technology. Building developer tools, AI automation and full-stack products. Sharpening DSA, system design and backend engineering. Open to SWE internships and open-source collaboration. Contact: safwanshk11@gmail.com" width="100%">
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/mission-mobile.svg">
+  <img src="assets/mission.svg" alt="Current mission: shipping useful full-stack products (active); exploring agentic AI and automation (in progress); strengthening DSA and system design with 100+ LeetCode problems solved (ongoing); contributing to open source as a GirlScript Summer of Code 2026 contributor (open)." width="100%">
+</picture>
+
 </div>
-
----
-
-## About
-
-<table>
-<tr>
-<td width="33%"><b>Based in</b><br><sub>Chennai, India</sub></td>
-<td width="33%"><b>Studying</b><br><sub>CSE at Chennai Institute of Technology</sub></td>
-<td width="34%"><b>Building</b><br><sub>Developer tools, AI automation, full-stack products</sub></td>
-</tr>
-<tr>
-<td><b>Sharpening</b><br><sub>DSA, system design, backend engineering</sub></td>
-<td><b>Open to</b><br><sub>SWE internships and open-source collaboration</sub></td>
-<td><b>Reach me</b><br><sub><a href="mailto:safwanshk11@gmail.com">safwanshk11@gmail.com</a></sub></td>
-</tr>
-</table>
-
-> I like building systems that **understand, act and verify**.
-
----
-
-## Current Mission
-
-<table>
-<tr>
-<td width="82%"><b>Shipping useful full-stack products</b><br><sub>Complete systems with a real backend, real data and real users in mind</sub></td>
-<td width="18%" align="center"><img src="https://img.shields.io/badge/active-39FF88?style=flat-square&labelColor=0D1117" alt="Status: active"></td>
-</tr>
-<tr>
-<td><b>Exploring agentic AI and automation</b><br><sub>Agents that plan, act and check their own work</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/in%20progress-00E5FF?style=flat-square&labelColor=0D1117" alt="Status: in progress"></td>
-</tr>
-<tr>
-<td><b>Strengthening DSA and system design</b><br><sub>100+ LeetCode problems solved and counting</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/ongoing-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status: ongoing"></td>
-</tr>
-<tr>
-<td><b>Contributing to open source</b><br><sub>Selected contributor, GirlScript Summer of Code 2026</sub></td>
-<td align="center"><img src="https://img.shields.io/badge/open-39FF88?style=flat-square&labelColor=0D1117" alt="Status: open"></td>
-</tr>
-</table>
 
 ---
 
@@ -81,30 +57,26 @@
 
 <td width="50%" valign="top">
 
-### AegisReview
-
-<img src="https://img.shields.io/badge/Security-00E5FF?style=flat-square&labelColor=0D1117" alt="Category: Security">
+<a href="https://github.com/safwanshk11/AegisReview"><img src="assets/build-01.svg" alt="AegisReview — a Security project" width="100%"></a>
 
 Paste any public GitHub repository and get a severity-scored security report in seconds — hardcoded secrets, SQL injection, unsafe HTML rendering and vulnerable dependencies — with an opt-in AI agent that plans, drafts and self-reviews a fix for each finding.
 
-<code>Python</code> <code>FastAPI</code> <code>React + TypeScript</code> <code>Server-Sent Events</code>
+<code>Python</code> <code>FastAPI</code> <code>React + TypeScript</code> <code>SSE</code>
 
-<a href="https://github.com/safwanshk11/AegisReview"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="AegisReview repository"></a>
+<a href="https://github.com/safwanshk11/AegisReview"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="AegisReview source code"></a>
 <a href="https://aegisreview-frontend.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=render&logoColor=0D1117" alt="AegisReview live demo"></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### FleetPulse
-
-<img src="https://img.shields.io/badge/Operations-39FF88?style=flat-square&labelColor=0D1117" alt="Category: Operations">
+<a href="https://github.com/safwanshk11/FleetPulse"><img src="assets/build-02.svg" alt="FleetPulse — an Operations project" width="100%"></a>
 
 Built for the Odoo Hackathon TransitOps problem statement — replaces fleet spreadsheets with one operational system for vehicles, drivers, trips, maintenance and expenses, enforcing rules like licence validity and load limits on the server rather than trusting the UI.
 
 <code>Node.js</code> <code>Express</code> <code>PostgreSQL</code> <code>React</code>
 
-<a href="https://github.com/safwanshk11/FleetPulse"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="FleetPulse repository"></a>
+<a href="https://github.com/safwanshk11/FleetPulse"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="FleetPulse source code"></a>
 
 </td>
 
@@ -113,29 +85,25 @@ Built for the Odoo Hackathon TransitOps problem statement — replaces fleet spr
 
 <td width="50%" valign="top">
 
-### Lumen
-
-<img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=flat-square&labelColor=0D1117" alt="Category: AI Automation">
+<a href="https://github.com/safwanshk11/unihacks"><img src="assets/build-03.svg" alt="Lumen — an AI Automation project" width="100%"></a>
 
 Turns cryptic industrial catalogue rows such as <code>3/8 CPLG BRS 150#</code> into structured, commerce-ready product records — deterministic rules where rules are safer, AI where language actually helps, and a confidence score plus rationale attached to every field.
 
 <code>Python</code> <code>FastAPI</code> <code>React + TypeScript</code> <code>SQLAlchemy</code>
 
-<a href="https://github.com/safwanshk11/unihacks"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="Lumen repository"></a>
+<a href="https://github.com/safwanshk11/unihacks"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="Lumen source code"></a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Deadline Guardian AI
-
-<img src="https://img.shields.io/badge/Agentic%20AI-00E5FF?style=flat-square&labelColor=0D1117" alt="Category: Agentic AI">
+<a href="https://github.com/safwanshk11/Deadline-Guardian-AI"><img src="assets/build-04.svg" alt="Deadline Guardian AI — an Agentic AI project" width="100%"></a>
 
 An active deadline defence system instead of another checklist — it scores schedule risk across a whole task portfolio, breaks vague objectives into timed subtasks, and assembles an hour-by-hour daily plan with buffer blocks built in.
 
 <code>TypeScript</code> <code>React</code> <code>Gemini</code> <code>Firebase</code>
 
-<a href="https://github.com/safwanshk11/Deadline-Guardian-AI"><img src="https://img.shields.io/badge/Repository-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="Deadline Guardian AI repository"></a>
+<a href="https://github.com/safwanshk11/Deadline-Guardian-AI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="Deadline Guardian AI source code"></a>
 
 </td>
 
@@ -150,66 +118,27 @@ An active deadline defence system instead of another checklist — it scores sch
 
 ## Toolbox
 
-<table>
-<tr>
-<td valign="middle" align="right" width="22%"><b>Languages</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++">
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript">
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" alt="TypeScript">
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=00E5FF" alt="CSS">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="right"><b>Frontend</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=8B5CF6" alt="React">
-<img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=8B5CF6" alt="Vite">
-<img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6" alt="Tailwind CSS">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="right"><b>Backend</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF88" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=39FF88" alt="Express">
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF88" alt="FastAPI">
-<img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" alt="JWT authentication">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="right"><b>Databases</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00E5FF" alt="SQLite">
-<img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=00E5FF" alt="SQLAlchemy">
-<img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00E5FF" alt="Firebase">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="right"><b>AI &amp; Data</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8B5CF6" alt="Google Gemini">
-<img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=8B5CF6" alt="OpenAI API">
-<img src="https://img.shields.io/badge/Anthropic%20API-0D1117?style=flat-square&logo=anthropic&logoColor=8B5CF6" alt="Anthropic API">
-<img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=8B5CF6" alt="Ollama">
-<img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=8B5CF6" alt="Jupyter">
-</td>
-</tr>
-<tr>
-<td valign="middle" align="right"><b>Tools &amp; Cloud</b></td>
-<td valign="middle">
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF88" alt="Git">
-<img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=39FF88" alt="GitHub Actions">
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF88" alt="Vercel">
-<img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=39FF88" alt="Render">
-<img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF88" alt="Linux">
-<img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=39FF88" alt="Visual Studio Code">
-</td>
-</tr>
-</table>
+<div align="center">
+
+<sub><b>LANGUAGES</b></sub><br>
+<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++"> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" alt="TypeScript"> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=00E5FF" alt="CSS">
+
+<sub><b>FRONTEND</b></sub><br>
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=8B5CF6" alt="React"> <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=8B5CF6" alt="Vite"> <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6" alt="Tailwind CSS">
+
+<sub><b>BACKEND</b></sub><br>
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF88" alt="Node.js"> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=39FF88" alt="Express"> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF88" alt="FastAPI"> <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" alt="JWT authentication">
+
+<sub><b>DATA</b></sub><br>
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" alt="PostgreSQL"> <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00E5FF" alt="SQLite"> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=00E5FF" alt="SQLAlchemy"> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00E5FF" alt="Firebase">
+
+<sub><b>AI</b></sub><br>
+<img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8B5CF6" alt="Google Gemini"> <img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=8B5CF6" alt="OpenAI API"> <img src="https://img.shields.io/badge/Anthropic%20API-0D1117?style=flat-square&logo=anthropic&logoColor=8B5CF6" alt="Anthropic API"> <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=8B5CF6" alt="Ollama"> <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=8B5CF6" alt="Jupyter">
+
+<sub><b>TOOLS &amp; CLOUD</b></sub><br>
+<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF88" alt="Git"> <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=39FF88" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF88" alt="Vercel"> <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=39FF88" alt="Render"> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF88" alt="Linux"> <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=39FF88" alt="Visual Studio Code">
+
+</div>
 
 ---
 
@@ -252,11 +181,9 @@ An active deadline defence system instead of another checklist — it scores sch
 
 ---
 
-## Philosophy
-
 <div align="center">
 
-> ### Great software should do more than respond — it should **understand** the problem, **take action**, and **verify** the result.
+<img src="assets/philosophy.svg" alt="Great software should do more than respond — it should understand the problem, take action, and verify the result." width="100%">
 
 </div>
 

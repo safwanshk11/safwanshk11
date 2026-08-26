@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="362" viewBox="0 0 1000 362" role="img" aria-label="Current mission: shipping useful full-stack products (active); exploring agentic AI and automation (in progress); strengthening DSA and system design, 100 plus LeetCode problems solved (ongoing); contributing to open source as a selected GirlScript Summer of Code 2026 contributor (open).">
+  <title>Current Mission — live status board</title>
+
+  <defs>
+    <linearGradient id="mSurface" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0E1520"/>
+      <stop offset="100%" stop-color="#090D14"/>
+    </linearGradient>
+    <linearGradient id="mRow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#131C28" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#0C121B" stop-opacity="0.6"/>
+    </linearGradient>
+    <radialGradient id="mGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="mCard"><rect width="1000" height="362" rx="18"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#mCard)">
+    <rect width="1000" height="362" fill="url(#mSurface)"/>
+    <ellipse cx="880" cy="20" rx="400" ry="210" fill="url(#mGlow)"/>
+
+    <text x="34" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace"
+          font-size="14" letter-spacing="5" fill="#8B5CF6">// CURRENT MISSION</text>
+    <line x1="34" y1="62" x2="966" y2="62" stroke="#1E2836" stroke-width="1"/>
+
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+
+      <!-- ROW 1 -->
+      <rect x="34" y="82" width="932" height="56" rx="10" fill="url(#mRow)" stroke="#1F2A39"/>
+      <rect x="34" y="82" width="3.5" height="56" rx="2" fill="#39FF88"/>
+      <text x="60" y="116" font-size="13" fill="#39FF88" opacity="0.85">01</text>
+      <circle cx="106" cy="110" r="5" fill="#39FF88">
+        <animate attributeName="opacity" values="1;0.25;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="128" y="106" font-size="19" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Shipping useful full-stack products</text>
+      <text x="128" y="127" font-size="13.5" fill="#6E7F92" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Complete systems with a real backend, real data and real users in mind</text>
+      <rect x="856" y="98" width="88" height="24" rx="12" fill="#39FF88" fill-opacity="0.14" stroke="#39FF88" stroke-opacity="0.55"/>
+      <text x="900" y="114" font-size="12" letter-spacing="1.6" text-anchor="middle" fill="#39FF88">ACTIVE</text>
+
+      <!-- ROW 2 -->
+      <rect x="34" y="150" width="932" height="56" rx="10" fill="url(#mRow)" stroke="#1F2A39"/>
+      <rect x="34" y="150" width="3.5" height="56" rx="2" fill="#00E5FF"/>
+      <text x="60" y="184" font-size="13" fill="#00E5FF" opacity="0.85">02</text>
+      <circle cx="106" cy="178" r="5" fill="#00E5FF"/>
+      <text x="128" y="174" font-size="19" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Exploring agentic AI and automation</text>
+      <text x="128" y="195" font-size="13.5" fill="#6E7F92" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Agents that plan, act and check their own work</text>
+      <rect x="838" y="166" width="106" height="24" rx="12" fill="#00E5FF" fill-opacity="0.14" stroke="#00E5FF" stroke-opacity="0.55"/>
+      <text x="891" y="182" font-size="12" letter-spacing="1.6" text-anchor="middle" fill="#00E5FF">IN PROGRESS</text>
+
+      <!-- ROW 3 -->
+      <rect x="34" y="218" width="932" height="56" rx="10" fill="url(#mRow)" stroke="#1F2A39"/>
+      <rect x="34" y="218" width="3.5" height="56" rx="2" fill="#8B5CF6"/>
+      <text x="60" y="252" font-size="13" fill="#8B5CF6" opacity="0.85">03</text>
+      <circle cx="106" cy="246" r="5" fill="#8B5CF6"/>
+      <text x="128" y="242" font-size="19" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Strengthening DSA and system design</text>
+      <text x="128" y="263" font-size="13.5" fill="#6E7F92" font-family="'Segoe UI', Helvetica, Arial, sans-serif">100+ LeetCode problems solved and counting</text>
+      <rect x="856" y="234" width="88" height="24" rx="12" fill="#8B5CF6" fill-opacity="0.16" stroke="#8B5CF6" stroke-opacity="0.55"/>
+      <text x="900" y="250" font-size="12" letter-spacing="1.6" text-anchor="middle" fill="#A78BFA">ONGOING</text>
+
+      <!-- ROW 4 -->
+      <rect x="34" y="286" width="932" height="56" rx="10" fill="url(#mRow)" stroke="#1F2A39"/>
+      <rect x="34" y="286" width="3.5" height="56" rx="2" fill="#39FF88"/>
+      <text x="60" y="320" font-size="13" fill="#39FF88" opacity="0.85">04</text>
+      <circle cx="106" cy="314" r="5" fill="#39FF88"/>
+      <text x="128" y="310" font-size="19" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Contributing to open source</text>
+      <text x="128" y="331" font-size="13.5" fill="#6E7F92" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Selected contributor, GirlScript Summer of Code 2026</text>
+      <rect x="874" y="302" width="70" height="24" rx="12" fill="#39FF88" fill-opacity="0.14" stroke="#39FF88" stroke-opacity="0.55"/>
+      <text x="909" y="318" font-size="12" letter-spacing="1.6" text-anchor="middle" fill="#39FF88">OPEN</text>
+    </g>
+
+    <rect x="0.75" y="0.75" width="998.5" height="360.5" rx="18" fill="none" stroke="#232E3D" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="628" viewBox="0 0 560 628" role="img" aria-label="About panel: based in Chennai India; studying CSE at Chennai Institute of Technology; building developer tools, AI automation and full-stack products; sharpening DSA, system design and backend engineering; open to SWE internships and open-source collaboration; contact safwanshk11 at gmail dot com.">
+  <title>About — status panel</title>
+  <defs>
+    <linearGradient id="amSurface" x1="0" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#0E1520"/><stop offset="100%" stop-color="#090D14"/>
+    </linearGradient>
+    <linearGradient id="amTile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121A26"/><stop offset="100%" stop-color="#0D141E"/>
+    </linearGradient>
+    <radialGradient id="amGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00E5FF" stop-opacity="0.10"/><stop offset="100%" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="amCard"><rect width="560" height="628" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#amCard)">
+    <rect width="560" height="628" fill="url(#amSurface)"/>
+    <ellipse cx="80" cy="30" rx="300" ry="180" fill="url(#amGlow)"/>
+    <text x="30" y="48" font-family="ui-monospace, Menlo, monospace" font-size="16" letter-spacing="5" fill="#00E5FF">// PROFILE</text>
+    <line x1="30" y1="64" x2="530" y2="64" stroke="#1E2836"/>
+    <g font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace">
+      <rect x="30" y="84" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="84" width="3.5" height="76" rx="2" fill="#00E5FF"/>
+      <circle cx="56" cy="122.0" r="6" fill="#00E5FF" fill-opacity="0.22" stroke="#00E5FF" stroke-opacity="0.7"/>
+      <text x="80" y="114" font-size="15" letter-spacing="3" fill="#64748B">BASED IN</text>
+      <text x="80" y="142" font-size="22" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Chennai, India</text>
+      <rect x="30" y="172" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="172" width="3.5" height="76" rx="2" fill="#8B5CF6"/>
+      <circle cx="56" cy="210.0" r="6" fill="#8B5CF6" fill-opacity="0.22" stroke="#8B5CF6" stroke-opacity="0.7"/>
+      <text x="80" y="202" font-size="15" letter-spacing="3" fill="#64748B">STUDYING</text>
+      <text x="80" y="230" font-size="17" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">CSE · Chennai Institute of Technology</text>
+      <rect x="30" y="260" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="260" width="3.5" height="76" rx="2" fill="#39FF88"/>
+      <circle cx="56" cy="298.0" r="6" fill="#39FF88" fill-opacity="0.22" stroke="#39FF88" stroke-opacity="0.7"/>
+      <text x="80" y="290" font-size="15" letter-spacing="3" fill="#64748B">BUILDING</text>
+      <text x="80" y="318" font-size="18" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">Dev tools · AI automation · Full-stack</text>
+      <rect x="30" y="348" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="348" width="3.5" height="76" rx="2" fill="#00E5FF"/>
+      <circle cx="56" cy="386.0" r="6" fill="#00E5FF" fill-opacity="0.22" stroke="#00E5FF" stroke-opacity="0.7"/>
+      <text x="80" y="378" font-size="15" letter-spacing="3" fill="#64748B">SHARPENING</text>
+      <text x="80" y="406" font-size="20" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">DSA · System design · Backend</text>
+      <rect x="30" y="436" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="436" width="3.5" height="76" rx="2" fill="#39FF88"/>
+      <circle cx="56" cy="474.0" r="6" fill="#39FF88" fill-opacity="0.22" stroke="#39FF88" stroke-opacity="0.7"/>
+      <text x="80" y="466" font-size="15" letter-spacing="3" fill="#64748B">OPEN TO</text>
+      <text x="80" y="494" font-size="20" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">SWE internships · Open source</text>
+      <rect x="30" y="524" width="500" height="76" rx="12" fill="url(#amTile)" stroke="#1F2A39"/>
+      <rect x="30" y="524" width="3.5" height="76" rx="2" fill="#8B5CF6"/>
+      <circle cx="56" cy="562.0" r="6" fill="#8B5CF6" fill-opacity="0.22" stroke="#8B5CF6" stroke-opacity="0.7"/>
+      <text x="80" y="554" font-size="15" letter-spacing="3" fill="#64748B">REACH ME</text>
+      <text x="80" y="582" font-size="21" font-weight="600" font-family="'Segoe UI', Helvetica, Arial, sans-serif" fill="#E6EDF3">safwanshk11@gmail.com</text>
+    </g>
+    <rect x="0.75" y="0.75" width="558.5" height="626.5" rx="18" fill="none" stroke="#232E3D" stroke-width="1.5"/>
+  </g>
+</svg>
