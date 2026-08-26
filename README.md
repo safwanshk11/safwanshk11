@@ -36,32 +36,14 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
-<b>Based in</b><br>
-<sub>Chennai, India</sub>
-</td>
-<td width="33%" valign="top">
-<b>Studying</b><br>
-<sub>B.E. Computer Science &amp; Engineering<br>Chennai Institute of Technology</sub>
-</td>
-<td width="34%" valign="top">
-<b>Building</b><br>
-<sub>Developer tools, AI automations<br>and full-stack products</sub>
-</td>
+<td width="33%"><b>Based in</b><br><sub>Chennai, India</sub></td>
+<td width="33%"><b>Studying</b><br><sub>CSE at Chennai Institute of Technology</sub></td>
+<td width="34%"><b>Building</b><br><sub>Developer tools, AI automation, full-stack products</sub></td>
 </tr>
 <tr>
-<td valign="top">
-<b>Sharpening</b><br>
-<sub>DSA, system design and<br>backend engineering</sub>
-</td>
-<td valign="top">
-<b>Open to</b><br>
-<sub>Software engineering internships<br>and open-source collaboration</sub>
-</td>
-<td valign="top">
-<b>Reach me</b><br>
-<sub><a href="mailto:safwanshk11@gmail.com">safwanshk11@gmail.com</a></sub>
-</td>
+<td><b>Sharpening</b><br><sub>DSA, system design, backend engineering</sub></td>
+<td><b>Open to</b><br><sub>SWE internships and open-source collaboration</sub></td>
+<td><b>Reach me</b><br><sub><a href="mailto:safwanshk11@gmail.com">safwanshk11@gmail.com</a></sub></td>
 </tr>
 </table>
 
@@ -73,20 +55,20 @@
 
 <table>
 <tr>
-<td width="70%"><b>Shipping useful full-stack products</b><br><sub>Complete systems with a real backend, real data and real users in mind</sub></td>
-<td width="30%" align="right"><img src="https://img.shields.io/badge/active-39FF88?style=flat-square&labelColor=0D1117" alt="Status: active"></td>
+<td width="82%"><b>Shipping useful full-stack products</b><br><sub>Complete systems with a real backend, real data and real users in mind</sub></td>
+<td width="18%" align="center"><img src="https://img.shields.io/badge/active-39FF88?style=flat-square&labelColor=0D1117" alt="Status: active"></td>
 </tr>
 <tr>
 <td><b>Exploring agentic AI and automation</b><br><sub>Agents that plan, act and check their own work</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/in%20progress-00E5FF?style=flat-square&labelColor=0D1117" alt="Status: in progress"></td>
+<td align="center"><img src="https://img.shields.io/badge/in%20progress-00E5FF?style=flat-square&labelColor=0D1117" alt="Status: in progress"></td>
 </tr>
 <tr>
 <td><b>Strengthening DSA and system design</b><br><sub>100+ LeetCode problems solved and counting</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/ongoing-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status: ongoing"></td>
+<td align="center"><img src="https://img.shields.io/badge/ongoing-8B5CF6?style=flat-square&labelColor=0D1117" alt="Status: ongoing"></td>
 </tr>
 <tr>
 <td><b>Contributing to open source</b><br><sub>Selected contributor, GirlScript Summer of Code 2026</sub></td>
-<td align="right"><img src="https://img.shields.io/badge/open-39FF88?style=flat-square&labelColor=0D1117" alt="Status: open"></td>
+<td align="center"><img src="https://img.shields.io/badge/open-39FF88?style=flat-square&labelColor=0D1117" alt="Status: open"></td>
 </tr>
 </table>
 

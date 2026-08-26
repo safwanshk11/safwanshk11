@@ -6,6 +6,9 @@ on:
   # Run once every 24 hours (03:00 UTC).
   schedule:
     - cron: "0 3 * * *"
+  # Also regenerate whenever the profile itself changes.
+  push:
+    branches: [main]
 
 # Least privilege by default; the job below opts into exactly what it needs.
 permissions:
