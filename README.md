@@ -57,7 +57,20 @@
 
 <td width="50%" valign="top">
 
-<a href="https://github.com/safwanshk11/AegisReview"><img src="assets/build-01.svg" alt="AegisReview — a Security project" width="100%"></a>
+<a href="https://github.com/safwanshk11/talos"><img src="assets/build-01.svg" alt="TALOS — a Developer Tool project" width="100%"></a>
+
+Repositories quietly accumulate maintenance work — stale dependencies, newly published CVEs — so TALOS monitors them, decides whether autonomous action is permitted at all, prepares the patch, verifies it through deterministic checks that no AI model grades, and opens a review-ready pull request with the merge left to a human.
+
+<code>Python</code> <code>FastAPI</code> <code>React + TypeScript</code> <code>Docker</code>
+
+<a href="https://github.com/safwanshk11/talos"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="TALOS source code"></a>
+<a href="https://talos-pi.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-8B5CF6?style=flat-square&logo=vercel&logoColor=0D1117" alt="TALOS live demo"></a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<a href="https://github.com/safwanshk11/AegisReview"><img src="assets/build-02.svg" alt="AegisReview — a Security project" width="100%"></a>
 
 Paste any public GitHub repository and get a severity-scored security report in seconds — hardcoded secrets, SQL injection, unsafe HTML rendering and vulnerable dependencies — with an opt-in AI agent that plans, drafts and self-reviews a fix for each finding.
 
@@ -68,9 +81,12 @@ Paste any public GitHub repository and get a severity-scored security report in 
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
-<a href="https://github.com/safwanshk11/FleetPulse"><img src="assets/build-02.svg" alt="FleetPulse — an Operations project" width="100%"></a>
+<a href="https://github.com/safwanshk11/FleetPulse"><img src="assets/build-03.svg" alt="FleetPulse — an Operations project" width="100%"></a>
 
 Built for the Odoo Hackathon TransitOps problem statement — replaces fleet spreadsheets with one operational system for vehicles, drivers, trips, maintenance and expenses, enforcing rules like licence validity and load limits on the server rather than trusting the UI.
 
@@ -80,12 +96,9 @@ Built for the Odoo Hackathon TransitOps problem statement — replaces fleet spr
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
-<a href="https://github.com/safwanshk11/unihacks"><img src="assets/build-03.svg" alt="Lumen — an AI Automation project" width="100%"></a>
+<a href="https://github.com/safwanshk11/unihacks"><img src="assets/build-04.svg" alt="Lumen — an AI Automation project" width="100%"></a>
 
 Turns cryptic industrial catalogue rows such as <code>3/8 CPLG BRS 150#</code> into structured, commerce-ready product records — deterministic rules where rules are safer, AI where language actually helps, and a confidence score plus rationale attached to every field.
 
@@ -95,50 +108,25 @@ Turns cryptic industrial catalogue rows such as <code>3/8 CPLG BRS 150#</code> i
 
 </td>
 
-<td width="50%" valign="top">
-
-<a href="https://github.com/safwanshk11/Deadline-Guardian-AI"><img src="assets/build-04.svg" alt="Deadline Guardian AI — an Agentic AI project" width="100%"></a>
-
-An active deadline defence system instead of another checklist — it scores schedule risk across a whole task portfolio, breaks vague objectives into timed subtasks, and assembles an hour-by-hour daily plan with buffer blocks built in.
-
-<code>TypeScript</code> <code>React</code> <code>Gemini</code> <code>Firebase</code>
-
-<a href="https://github.com/safwanshk11/Deadline-Guardian-AI"><img src="https://img.shields.io/badge/Code-0D1117?style=flat-square&logo=github&logoColor=C9D1D9" alt="Deadline Guardian AI source code"></a>
-
-</td>
-
 </tr>
 </table>
 
 <div align="center">
-<sub>More work — an autonomous planning agent, an AI support-triage inbox and a crowd-safety prototype — lives on my <a href="https://github.com/safwanshk11?tab=repositories">repositories page</a>.</sub>
+<sub>More work — a deadline-risk copilot, an autonomous planning agent, an AI support-triage inbox and a crowd-safety prototype — lives on my <a href="https://github.com/safwanshk11?tab=repositories">repositories page</a>.</sub>
 </div>
 
 ---
 
 ## Toolbox
 
-<div align="center">
-
-<sub><b>LANGUAGES</b></sub><br>
-<img src="https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00E5FF" alt="C++"> <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00E5FF" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00E5FF" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00E5FF" alt="TypeScript"> <img src="https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=00E5FF" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=00E5FF" alt="CSS">
-
-<sub><b>FRONTEND</b></sub><br>
-<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=8B5CF6" alt="React"> <img src="https://img.shields.io/badge/Vite-0D1117?style=flat-square&logo=vite&logoColor=8B5CF6" alt="Vite"> <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6" alt="Tailwind CSS">
-
-<sub><b>BACKEND</b></sub><br>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=39FF88" alt="Node.js"> <img src="https://img.shields.io/badge/Express-0D1117?style=flat-square&logo=express&logoColor=39FF88" alt="Express"> <img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=39FF88" alt="FastAPI"> <img src="https://img.shields.io/badge/JWT-0D1117?style=flat-square&logo=jsonwebtokens&logoColor=39FF88" alt="JWT authentication">
-
-<sub><b>DATA</b></sub><br>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00E5FF" alt="PostgreSQL"> <img src="https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=00E5FF" alt="SQLite"> <img src="https://img.shields.io/badge/SQLAlchemy-0D1117?style=flat-square&logo=sqlalchemy&logoColor=00E5FF" alt="SQLAlchemy"> <img src="https://img.shields.io/badge/Firebase-0D1117?style=flat-square&logo=firebase&logoColor=00E5FF" alt="Firebase">
-
-<sub><b>AI</b></sub><br>
-<img src="https://img.shields.io/badge/Google%20Gemini-0D1117?style=flat-square&logo=googlegemini&logoColor=8B5CF6" alt="Google Gemini"> <img src="https://img.shields.io/badge/OpenAI%20API-0D1117?style=flat-square&logo=openai&logoColor=8B5CF6" alt="OpenAI API"> <img src="https://img.shields.io/badge/Anthropic%20API-0D1117?style=flat-square&logo=anthropic&logoColor=8B5CF6" alt="Anthropic API"> <img src="https://img.shields.io/badge/Ollama-0D1117?style=flat-square&logo=ollama&logoColor=8B5CF6" alt="Ollama"> <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=8B5CF6" alt="Jupyter">
-
-<sub><b>TOOLS &amp; CLOUD</b></sub><br>
-<img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39FF88" alt="Git"> <img src="https://img.shields.io/badge/GitHub%20Actions-0D1117?style=flat-square&logo=githubactions&logoColor=39FF88" alt="GitHub Actions"> <img src="https://img.shields.io/badge/Vercel-0D1117?style=flat-square&logo=vercel&logoColor=39FF88" alt="Vercel"> <img src="https://img.shields.io/badge/Render-0D1117?style=flat-square&logo=render&logoColor=39FF88" alt="Render"> <img src="https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=39FF88" alt="Linux"> <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visualstudiocode&logoColor=39FF88" alt="Visual Studio Code">
-
-</div>
+| Category | Technologies |
+| --- | --- |
+| **Languages** | C++, Python, JavaScript, TypeScript, HTML, CSS |
+| **Frontend** | React, Vite, Tailwind CSS |
+| **Backend** | Node.js, Express, FastAPI, JWT |
+| **Databases** | PostgreSQL, SQLite, SQLAlchemy, Firebase |
+| **AI & Data** | Google Gemini, OpenAI API, Anthropic API, Ollama, Jupyter |
+| **Tools & Cloud** | Git, GitHub Actions, Docker, Vercel, Render, Linux, VS Code |
 
 ---
 
